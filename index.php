@@ -9,7 +9,6 @@
         <?php
             require_once 'modelos/config.php';
             require_once 'routes.php';
-            echo 'holA';
         ?>
         <script src="assets/js/jquery.js"></script>
         <script src="assets/js/bootstrap.min.js"></script>
